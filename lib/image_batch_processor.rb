@@ -1,0 +1,3 @@
+class ImageBatchProcessor
+
+end
